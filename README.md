@@ -6,7 +6,7 @@
  [![](https://img.youtube.com/vi/Gdo515PkFSE/0.jpg)](https://www.youtube.com/watch?v=Gdo515PkFSE)
 
 
-## Use case with remote communication tool
+## Example of using this app with remote communication tool
 ### Setup
 1) Create Zoom account. <br>
 https://zoom.us/  <br>
