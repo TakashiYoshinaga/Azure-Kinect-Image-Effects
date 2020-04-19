@@ -4,7 +4,7 @@
  1) Run <b>KinectCapture4PC.exe</b>. <br>
  2) Select a mode as you like. (Please see follwoing video)<br>
  [![](https://img.youtube.com/vi/Gdo515PkFSE/0.jpg)](https://www.youtube.com/watch?v=Gdo515PkFSE)
-
+<br>
 
 ## Example of using this app with remote communication tool
 ### Setup
