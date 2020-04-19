@@ -44,4 +44,4 @@ https://github.com/CatxFish/obs-virtual-cam/releases  <br>
 20) Select Video from the setting menue shown in the left. <br>
 21) Select OBS-Camera from Camera list. <br>
 <img src="Images/07.jpg" alt="" width="400"><br><br>
-21) Please select <b>Keep Aspect Ratio</b> again in the Virtual Cam of OBS if aspect ratio is not correct.
+21) Please re-select <b>Keep Aspect Ratio</b> in the Virtual Cam of OBS if aspect ratio is not correct.
