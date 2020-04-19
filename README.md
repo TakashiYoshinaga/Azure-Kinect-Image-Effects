@@ -2,7 +2,7 @@
  
  ## Usage
  1) Run <b>KinectCapture4PC.exe</b>. <br>
- 2) Select a mode as you like. (Please see follwoing video)
+ 2) Select a mode as you like. (Please see follwoing video)<br>
  [![](https://img.youtube.com/vi/Gdo515PkFSE/0.jpg)](https://www.youtube.com/watch?v=Gdo515PkFSE)
 
 
@@ -30,7 +30,18 @@ https://github.com/CatxFish/obs-virtual-cam/releases  <br>
 <img src="Images/03.jpg" alt="" width="400"><br><br>
 10) Click <b>OK</b> button of Create/Slect Sources window.<br>
 11) Select <b>[KiectCapture4PC.exe]: Viewer</b> from dropdown menue of Window.<br>
-9) <img src="Images/04.jpg" alt="" width="400"><br><br>
-8) Click <b>Tools</b>. <br>
-9) Click <b>VirtualCam</b>.<br>
+12) Click OK<br>
+<img src="Images/04.jpg" alt="" width="400"><br><br>
+13) Click <b>Tools</b>. <br>
+14) Click <b>VirtualCam</b>.<br>
 <img src="Images/05.jpg" alt="" width="400"><br><br>
+15) Turn on <b>Keep Aspect Ratio</b>. <br>
+16) Select <b>OBS-Camera</b> from Target Camera <br>
+17) Cick <b>Start</b> button.<br>
+<img src="Images/06.jpg" alt="" width="400"><br><br>
+18) Launch Zoom application <br>
+19) Open settings <br>
+20) Select Video from the setting menue shown in the left. <br>
+21) Select OBS-Camera from Camera list. <br>
+<img src="Images/07.jpg" alt="" width="400"><br><br>
+21) Please select <b>Keep Aspect Ratio</b> again in the Virtual Cam of OBS if aspect ratio is not correct.
