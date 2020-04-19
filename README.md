@@ -14,6 +14,8 @@ https://zoom.us/  <br>
 https://obsproject.com/   <br>
 3) OBS Virtual Cam <br>
 https://github.com/CatxFish/obs-virtual-cam/releases  <br>
+4) Azure Kinect SDK (1.4.0) <br>
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md  <br>
 
 ### Usage
 1) Run <b>KinectCapture4PC.exe</b>. <br>
